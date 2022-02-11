@@ -1,5 +1,8 @@
 ![extract into](https://i.imgur.com/TcRmoRm.png)
 
+### **Kolbot-SoloPlay has been moved to blizzhackers. All new development will be there**
+https://github.com/blizzhackers/Kolbot-SoloPlay
+
 ## The big question, What is Kolbot-SoloPlay?
 - SoloPlay is a D2BS based auto-play system to level any single legacy diablo 2 character class from 1-99. That sounds like a bunch of verbage so let me break it down a bit. D2BS stands for ``Diablo 2 Botting System`` if you are familiar with Kolbot that is what you are using. SoloPlay only works for Diablo 2, so before you ask it is not for Diablo 2 Resurrected. Alright next, what is an auto-play system? In simple terms, SoloPlay works by set it and forget philosophy. It is profile driven so the only thing you need to worry about is filling out the profile with the correct format and then press start (how to set up the profile is defined below). After that it takes care of the rest, no setting up config files or settings files (like sonic or horde), ect. The goal is to be the fastest leveling system there is across all modes (classic/expansion, hardcore/softcore, ladder/non-ladder)
 
